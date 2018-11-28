@@ -1,0 +1,9 @@
+gensim
+numpy
+pandas
+scikit-learn
+scipy
+sklearn
+nltk
+torch==0.3.1
+torchvision

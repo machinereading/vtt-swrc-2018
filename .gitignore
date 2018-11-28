@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#project specific
+character-identifier/data/scene_embedding/
+character-identifier/models/video_best/
+character-identifier/models/dialog_best/
+character-identifier/data/GoogleNews-vectors-negative300.bin.gz
