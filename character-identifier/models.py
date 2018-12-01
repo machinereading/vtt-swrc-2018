@@ -72,7 +72,12 @@ class LSTM_basic(nn.Module):
             lstm_to_output.append(nn.Linear(self.lstm.hidden_size*(2 if args.bidirectional else 1) + self.scene_emb_out_size if self.use_video else 0,
                                             args.num_entities))
         else:
-            lstm_to_output.append(nn.Linear(self.lstm.hidden_size*(2 if args.bidirectional else 1) + self.scene_emb_out_size if self.use_video else 0,
+            if (self.use_video):
+                linear_in_size = self.lstm.hidden_size*(2 if args.bidirectional else 1) + self.scene_emb_out_size
+            else:
+                linear_in_size = self.lstm.hidden_size*(2 if args.bidirectional else 1)
+
+            lstm_to_output.append(nn.Linear(linear_in_size,
                                             embedder.speaker_emb.weight.data.shape[1]))
         if args.nonlinearity_2 == 'tanh':   lstm_to_output.append(torch.nn.Tanh())
         elif args.nonlinearity_2 == 'relu': lstm_to_output.append(torch.nn.ReLU())

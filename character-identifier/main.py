@@ -56,7 +56,6 @@ def main():
             # TODO: This won't generalize when using other embeddings.
 
         # Load embeddings if needed:
-        print ('*******token_emb', settings.model.token_emb)
         if isinstance(settings.model.token_emb, str):
             settings.model.token_emb = embedding_loader.load_word_embeddings(settings.model.token_emb,
                                                                              settings.data.dataset, train_data, logger)
