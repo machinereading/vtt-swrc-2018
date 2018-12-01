@@ -107,7 +107,7 @@ venv.bak/
 character-identifier/data/scene_embedding/
 character-identifier/models/video_best/
 character-identifier/models/dialog_best/
-character-identifier/models/ptmodel/
+character-identifier/models/ptmodel/answers/
 character-identifier/data/GoogleNews-vectors-negative300.bin.gz
 character-identifier/data/friends/*.pkl
 character-identifier/data/friends/*.npy
