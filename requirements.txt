@@ -7,3 +7,4 @@ sklearn
 nltk
 torch==0.3.1
 torchvision
+stanfordcorenlp
