@@ -1,0 +1,88 @@
+{
+    "triples": [
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "has",
+            "obj": "just guy"
+        },
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "has",
+            "obj": "Monica Geller"
+        },
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "'s guy",
+            "obj": "I work with"
+        },
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "'s just guy",
+            "obj": "I work with"
+        },
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "'s just guy",
+            "obj": "I work"
+        },
+        {
+            "source": "[Monica Geller] : There's nothing to tell! He's just some guy I work with!",
+            "sbj": "Chandler Bing",
+            "relation": "'s guy",
+            "obj": "I work"
+        },
+        {
+            "source": "[Joey Tribbiani] : C'mon, you're going out with the guy! There's gotta be something wrong with him!",
+            "sbj": "Monica Geller",
+            "relation": "'re going out with",
+            "obj": "Man 1"
+        },
+        {
+            "source": "[Joey Tribbiani] : C'mon, you're going out with the guy! There's gotta be something wrong with him!",
+            "sbj": "something wrong",
+            "relation": "is with",
+            "obj": "Chandler Bing"
+        },
+        {
+            "source": "[Chandler Bing] : All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+            "sbj": "right Joey",
+            "relation": "be",
+            "obj": "nice"
+        },
+        {
+            "source": "[Chandler Bing] : All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+            "sbj": "Joey Tribbiani",
+            "relation": "So does have",
+            "obj": "hump"
+        },
+        {
+            "source": "[Chandler Bing] : All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+            "sbj": "Joey Tribbiani",
+            "relation": "does have",
+            "obj": "hump"
+        },
+        {
+            "source": "[Phoebe Buffay] : Wait, does he eat chalk?",
+            "sbj": "Ross Geller",
+            "relation": "does eat",
+            "obj": "chalk"
+        },
+        {
+            "source": "[Monica Geller] : Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.",
+            "sbj": "It",
+            "relation": "has",
+            "obj": "just two people"
+        },
+        {
+            "source": "[Chandler Bing] : Ross Geller is my friend.",
+            "sbj": "Ross Geller",
+            "relation": "is",
+            "obj": "my friend"
+        }
+    ]
+}
