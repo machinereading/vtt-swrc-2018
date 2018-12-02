@@ -1,0 +1,139 @@
+#begin document (friends-s01e01-00); part000
+friends-s01e01-00	0	0	There	EX	expl	there	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	1	's	VBZ	ROOT	be	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	2	nothing	NN	nsubj	nothing	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	3	to	TO	mark	to	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	4	tell	VB	acl	tell	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	5	!	.	punct	!	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+
+friends-s01e01-00	0	6	He	PRP	nsubj	he	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	7	's	VBZ	cop	be	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	8	just	RB	advmod	just	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	9	some	DT	det	some	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	10	guy	NN	ROOT	guy	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	11	I	PRP	nsubj	I	-	-	Monica_Geller	*	55422	59256	000.pickle	(0)
+friends-s01e01-00	0	12	work	VBP	acl:relcl	work	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	13	with	IN	nmod	with	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+friends-s01e01-00	0	14	!	.	punct	!	-	-	Monica_Geller	*	55422	59256	000.pickle	-
+
+friends-s01e01-00	1	0	C'mon	VB	discourse	c'mon	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	1	,	,	punct	,	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	2	you	PRP	nsubj	you	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	3	're	VBP	aux	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	4	going	VBG	ROOT	go	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	5	out	RP	compound:prt	out	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	6	with	IN	case	with	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	7	the	DT	det	the	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	8	guy	NN	nmod	guy	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	9	!	.	punct	!	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+
+friends-s01e01-00	1	10	There	EX	expl	there	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	11	's	VBZ	auxpass	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	12	got	VBN	ROOT	get	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	13	ta	TO	mark	ta	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	14	be	VB	cop	be	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	15	something	NN	xcomp	something	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	16	wrong	JJ	amod	wrong	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	17	with	IN	case	with	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+friends-s01e01-00	1	18	him	PRP	nmod	he	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	(0)
+friends-s01e01-00	1	19	!	.	punct	!	-	-	Joey_Tribbiani	*	59459	64389	000.pickle	-
+
+friends-s01e01-00	2	0	All	DT	det	all	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	1	right	JJ	amod	right	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	2	Joey	NNP	nsubj	Joey	-	-	Chandler_Bing	(PERSON)	64597	69358	000.pickle	-
+friends-s01e01-00	2	3	,	,	punct	,	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	4	be	VB	cop	be	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	5	nice	JJ	ROOT	nice	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	6	.	.	punct	.	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+
+friends-s01e01-00	2	7	So	RB	advmod	so	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	8	does	VBZ	aux	do	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	9	he	PRP	nsubj	he	-	-	Chandler_Bing	*	64597	69358	000.pickle	(0)
+friends-s01e01-00	2	10	have	VB	ROOT	have	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	11	a	DT	det	a	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	12	hump	NN	dobj	hump	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	13	?	.	punct	?	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+
+friends-s01e01-00	2	14	A	DT	det	a	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	15	hump	NN	ROOT	hump	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	16	and	CC	cc	and	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	17	a	DT	det	a	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	18	hairpiece	NN	conj	hairpiece	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+friends-s01e01-00	2	19	?	.	punct	?	-	-	Chandler_Bing	*	64597	69358	000.pickle	-
+
+friends-s01e01-00	3	0	Wait	VB	dep	wait	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+friends-s01e01-00	3	1	,	,	punct	,	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+friends-s01e01-00	3	2	does	VBZ	aux	do	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+friends-s01e01-00	3	3	he	PRP	nsubj	he	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	(0)
+friends-s01e01-00	3	4	eat	VB	ROOT	eat	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+friends-s01e01-00	3	5	chalk	NN	dobj	chalk	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+friends-s01e01-00	3	6	?	.	punct	?	-	-	Phoebe_Buffay	*	71171	73605	000.pickle	-
+
+friends-s01e01-00	4	0	Just	RB	advmod	just	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	1	,	,	punct	,	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	2	'cause	NN	discourse	'cause	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	3	,	,	punct	,	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	4	I	PRP	nsubj	I	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	(0)
+friends-s01e01-00	4	5	do	VBP	aux	do	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	6	n't	RB	neg	not	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	7	want	VB	ROOT	want	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	8	her	PRP	dobj	she	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	(0)
+friends-s01e01-00	4	9	to	TO	mark	to	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	10	go	VB	xcomp	go	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	11	through	IN	mark	through	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	12	what	WP	dobj	what	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	13	I	PRP	nsubj	I	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	(0)
+friends-s01e01-00	4	14	went	VBD	advcl	go	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	15	through	IN	compound:prt	through	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	16	with	IN	case	with	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	17	Carl	NNP	nmod	Carl	-	-	Phoebe_Buffay	(PERSON)	73773	77072	000.pickle	-
+friends-s01e01-00	4	18	-	:	punct	-	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	19	oh	UH	dep	oh	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+friends-s01e01-00	4	20	!	.	punct	!	-	-	Phoebe_Buffay	*	73773	77072	000.pickle	-
+
+friends-s01e01-00	5	0	Okay	UH	discourse	okay	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	1	,	,	punct	,	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	2	everybody	NN	nsubj	everybody	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	3	relax	VB	ROOT	relax	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	4	.	.	punct	.	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+
+friends-s01e01-00	5	5	This	DT	nsubj	this	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	6	is	VBZ	cop	be	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	7	not	RB	neg	not	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	8	even	RB	advmod	even	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	9	a	DT	det	a	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	10	date	NN	ROOT	date	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	11	.	.	punct	.	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+
+friends-s01e01-00	5	12	It	PRP	nsubj	it	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	13	's	VBZ	cop	be	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	14	just	RB	advmod	just	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	15	two	CD	nummod	two	-	-	Monica_Geller	(NUMBER)	77243	85883	000.pickle	-
+friends-s01e01-00	5	16	people	NNS	ROOT	people	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	17	going	VBG	acl	go	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	18	out	RP	compound:prt	out	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	19	to	TO	case	to	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	20	dinner	NN	nmod	dinner	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	21	and	CC	cc	and	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	22	-	:	punct	-	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	23	not	RB	neg	not	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	24	having	VBG	conj	have	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	25	sex	NN	dobj	sex	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+friends-s01e01-00	5	26	.	.	punct	.	-	-	Monica_Geller	*	77243	85883	000.pickle	-
+
+friends-s01e01-00	6	0	Sounds	VBZ	ROOT	sound	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	6	1	like	IN	case	like	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	6	2	a	DT	det	a	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	6	3	date	NN	nmod	date	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	6	4	to	TO	case	to	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	6	5	me	PRP	nmod	I	-	-	Chandler_Bing	*	86119	89213	000.pickle	(0)
+friends-s01e01-00	6	6	.	.	punct	.	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+
+friends-s01e01-00	7	0	Ross	NNP	compound	Ross	-	-	Chandler_Bing	(PERSON)	86119	89213	000.pickle	-
+friends-s01e01-00	7	1	Geller	NNP	nsubj	Geller	-	-	Chandler_Bing	(PERSON)	86119	89213	000.pickle	-
+friends-s01e01-00	7	2	is	VBZ	cop	be	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+friends-s01e01-00	7	3	my	PRP$	nmod:poss	my	-	-	Chandler_Bing	*	86119	89213	000.pickle	(0)
+friends-s01e01-00	7	4	friend	NN	ROOT	friend	-	-	Chandler_Bing	*	86119	89213	000.pickle	(0)
+friends-s01e01-00	7	5	.	.	punct	.	-	-	Chandler_Bing	*	86119	89213	000.pickle	-
+
+#end document

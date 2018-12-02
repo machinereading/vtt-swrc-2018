@@ -111,4 +111,4 @@ character-identifier/models/ptmodel/answers/
 character-identifier/data/GoogleNews-vectors-negative300.bin.gz
 character-identifier/data/friends/*.pkl
 character-identifier/data/friends/*.npy
-
+stanford-corenlp-*/

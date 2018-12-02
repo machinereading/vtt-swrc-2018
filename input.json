@@ -1,0 +1,53 @@
+{
+	"scene_id":"friends-s01e01-00",
+	"sentences":[
+		{
+			"speaker":"Monica Geller",
+			"text":"There's nothing to tell! He's just some guy I work with!",
+			"st":55422,
+			"en":59256
+		},
+		{
+			"speaker":"Joey Tribbiani",
+			"text":"C'mon, you're going out with the guy! There's gotta be something wrong with him!",
+			"st":59459,
+			"en":64389
+		},
+		{
+			"speaker":"Chandler Bing",
+			"text":"All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+			"st":64597,
+			"en":69358
+		},
+		{
+			"speaker":"Phoebe Buffay",
+			"text":"Wait, does he eat chalk?",
+			"st":71171,
+			"en":73605
+		},
+		{
+			"speaker":"Phoebe Buffay",
+			"text":"Just, 'cause, I don't want her to go through what I went through with Carl- oh!",
+			"st":73773,
+			"en":77072
+		},
+		{
+			"speaker":"Monica Geller",
+			"text":"Okay, everybody relax. This is not even a date. It's just two people going out to dinner and- not having sex.",
+			"st":77243,
+			"en":85883
+		},
+		{
+			"speaker":"Chandler Bing",
+			"text":"Sounds like a date to me.",
+			"st":86119,
+			"en":89213
+		},
+		{
+			"speaker":"Chandler Bing",
+			"text":"Ross Geller is my friend.",
+			"st":86119,
+			"en":89213
+		}
+	]
+}
