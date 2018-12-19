@@ -17,7 +17,7 @@ print ('[Step0 Done] Character Entity Identified')
 # 1.Charater Identification
 print ('[Step1 Start] Running Character Entity Identification Module...')
 os.chdir('./character-identifier')
-os.system('python main.py --deploy_data test --model models/ptmodel/ckpt')
+os.system('python main.py --deploy_data test --model models/ptmodel/ckpt --no_cuda')
 os.chdir('..')
 print ('[Step1 Done] Character Entity Identified')
 
